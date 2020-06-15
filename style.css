@@ -1,0 +1,13 @@
+.card {
+    text-align: center;
+    font-size: 26px;
+    margin: 0 auto; 
+    float: none; 
+    /* margin-bottom: 10px;  */
+    height: 650px;
+    width: 500px;
+}
+
+body {
+    background-color: rgb(237, 240, 238);
+}
